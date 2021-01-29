@@ -1,1 +1,1 @@
-# CLangExercise
+# C Lang Exercise
